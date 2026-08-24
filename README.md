@@ -546,6 +546,12 @@ done
 
 ````
 
+and don't forget to index the files!
+
+````
+for b in ../RG_groups/*.bam; do samtools index "$b"; done
+````
+
 </details>
 
 # Processing xQTL samples through Haplotype Inferencing pipeline:
