@@ -109,7 +109,7 @@ echo "[DONE] $DGRP - $ACC -> $SRR"
 </details>
 
 
-## 2. Trim files
+## 7. Trim files
 
 <details>
 <summary>Click to expand code</summary>
@@ -165,7 +165,7 @@ echo "[DONE] $DGRP"
 
 </details>
 
-## 3. BWA mem merge reads, sort, and output bams
+## 8. BWA mem merge reads, sort, and output bams
 
 <details>
 <summary>Click to expand code</summary>
@@ -224,7 +224,7 @@ done
 
 </details>
 
-## 4. Dedup & Merge
+## 9. Dedup & Merge
 <details>
 <summary>Click to expand code</summary>
 
