@@ -1,6 +1,8 @@
 # xQTL_genomic_architecture_analysis
 # DGRP Founder Prep
 
+Note: This repository documents the full analysis pipeline. Final scripts will be posted upon publication; the manuscript is currently in revision with co-authors. Available on request in the meantime.
+
 ## 1. Download DGRP LINES data (drgp_lines.tsv) from https://dgrpool.epfl.ch/
 
 ## 2. Filter DGRP Line data to contain Founder lines of interest (file: dgrp_mapping_clean)
