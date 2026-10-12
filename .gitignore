@@ -1,0 +1,15 @@
+.ipynb_checkpoints/
+.Rhistory
+.RData
+.DS_Store
+Data/
+Figures/
+Final_Data_Inputs/
+Final_Final_Data/
+input_files/
+*.bam
+*.bai
+*.fastq*
+*.fq*
+*.vcf
+*.bcf
